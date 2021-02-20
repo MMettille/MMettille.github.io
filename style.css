@@ -1,1 +1,31 @@
+body {
+  font-family: Garamond
+  color: #dddddd
+  margin: 10% 20%;}
 
+h4 {
+  color: green;
+}
+
+h3 {
+  color: green;
+}
+
+<img style="float: right; margin: 0px 0px 15px 15px;"
+src="user-images.githubusercontent.com/79329927/108571982-eaa23980-72d6-11eb-8d0a-5a0fde3f1782.jpg" 
+width="100" />
+
+.summary{
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+}
+
+.skills{
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+}
+
+.education{
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+}
