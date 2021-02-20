@@ -11,12 +11,38 @@ h3 {
   color: green;
 }
 
+h2 {
+  color: green;
+}
+
 #meandmyboys {
   float: right;
   margin: 0 0 0 15px;
 }
 
+.row:after {
+  display:table;
+  clear: both;
+}
+
+.column {
+  float:left;
+  width: 50%;
+  border: 2px green;
+}
+
+.bullets {
+  float:right;
+  width: 50%;
+}
+
 .summary{
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  color: 
+}
+
+.experience{
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
 }
@@ -30,3 +56,6 @@ h3 {
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
 }
+
+© 2021 GitHub, Inc.
+
