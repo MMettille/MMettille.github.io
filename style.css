@@ -11,9 +11,10 @@ h3 {
   color: green;
 }
 
-<img style="float: right; margin: 0px 0px 15px 15px;"
-src="https://user-images.githubusercontent.com/79329927/108602282-d0b03780-7366-11eb-915c-660633fb7fe1.PNG" 
-width="100" />
+#meandmyboys {
+  float: right;
+  margin: 0 0 0 15px;
+}
 
 .summary{
   border-top: 1px solid #dddddd;
