@@ -42,7 +42,8 @@ h2 {
         margin: 50px;
         position: relative;
         border: 5px solid black;
-        background: #7dc765
+        background: #7dc765;
+        text-align: center;
 }
   
   
