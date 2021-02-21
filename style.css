@@ -28,7 +28,6 @@ h2 {
 .column {
   float:left;
   width: 50%;
-  border: 2px green;
 }
 
 .bullets {
@@ -36,21 +35,23 @@ h2 {
   width: 50%;
 }
 
-.summary{
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  color: 
+
+
+.education {
+        padding: 50px;
+        margin: 50px;
+        position: relative;
+        border: 5px solid black;
+        background: #7dc765
+}
+  
+  
+.experience {
+        padding: 50px;
+        margin: 50px;
+        position: relative;
+        border: 2px solid black;
 }
 
-.experience{
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-}
-
-.skills{
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-}
-
+        
 © 2021 GitHub, Inc.
-
